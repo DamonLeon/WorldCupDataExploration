@@ -38,6 +38,7 @@ https://public.tableau.com/app/profile/damon.leon/viz/WorldCupScoredvsConcededv1
 
 I had a couple ideas for things to improve on next time or other additions that I wasn't able to include this time around: 
 
+- Making team1 and team 2 selection work in both directions - due to the way the data is initially structured, the relevant teams are only returned once team1 has been selected (i.e you can't start off selecting team2 first then team1) . In some instances, this has the effect that it looks as if a team has only played one game (e.g Australia as team 1, Denmark as team2), but this is just the result of how the data is initially structured and all games played in the tournament are captured in the dashboard. 
 
 
 # Acknowledgements
