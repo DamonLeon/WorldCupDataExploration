@@ -23,7 +23,7 @@ Three visualisations were made in Tableau using the processed data, and publishe
 ![image](https://github.com/DamonLeon/WorldCupDataExploration/assets/87230042/58f83b81-78da-4253-ad58-5dd277f46602)
 
 
-## Goals vs Conceded
+## Goals Scored vs Conceded
 
 - Analytic on average team performance over the tournament, looking at average goals scored vs average goals conceded
 - https://public.tableau.com/app/profile/damon.leon/viz/WorldCupScoredvsConcededv1/AverageGoalsConceded_1
